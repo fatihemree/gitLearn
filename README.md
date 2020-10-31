@@ -1,1 +1,1 @@
-# gitLearn ilk alıştırma
+# gitLearn ilk alıştırma metehan özkan birşeyler yazdı
